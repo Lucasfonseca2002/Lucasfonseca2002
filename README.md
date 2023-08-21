@@ -1,13 +1,11 @@
 ### Olá! Eu sou o Lucas Fonseca
 
-- 🧑‍💻 Atualmente não atuo na area de programação, porém quero ser Front-End!
-- 📒 Estudando JavaScript, HTML5, CCS3 e Python.
+- 🧑‍💻 Atualmente não atuo na area de programação, porém quero atuar na área de Data Science!
+- 📒 Estudando Python,SQL, JavaScript/HTML/CSS.
 - ✉️ Contate-me no email: lucasfonsecabf@gmail.com
 - 👨‍🎓 Curso Analise e Desenvolvimento de Sistemas 2/5!
 <div style="display: inline_block"><br>
-  <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="lucas-Js" height="30" width="40" src="raw.githubusercontent.com">
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
