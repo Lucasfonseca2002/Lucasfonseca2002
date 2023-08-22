@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Fonseca
 
-- 🧑‍💻 Atualmente não atuo na area de programação, porém quero atuar na área de Data Science!
+- 🧑‍💻 Atualmente não atuo na area de programação, porém quero atuar na área de Front-End!
 - 📒 Estudando Python,SQL, JavaScript/HTML/CSS.
 - ✉️ Contate-me no email: lucasfonsecabf@gmail.com
 - 👨‍🎓 Curso Analise e Desenvolvimento de Sistemas 2/5!
