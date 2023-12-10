@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Fonseca
 
-- 🧑‍💻 Atualmente não atuo na area de programação, porém quero atuar na área de Front-End!
+- 🧑‍💻 Sou apaixonado pela área de Dados, Analytics e por Machine Learning 
 - 📒 Estudando Python,SQL, JavaScript/HTML/CSS.
 - ✉️ Contate-me no email: lucasfonsecabf@gmail.com
 - 👨‍🎓 Curso Analise e Desenvolvimento de Sistemas 3/5!
@@ -9,6 +9,8 @@
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lucas-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  
 </div>
 
 ##
