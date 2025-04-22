@@ -18,3 +18,19 @@
 </div>
 
 
+## Projetos
+
+### Projetos de Python
+- **Nome do Projeto 1**: Descrição breve do projeto. [Link para o repositório](#)
+- **Nome do Projeto 2**: Descrição breve do projeto. [Link para o repositório](#)
+
+### Projetos de Análise de Dados com Power BI, SQL e Python
+- **Nome do Projeto 1**: Descrição breve do projeto. [Link para o repositório](#)
+- **Nome do Projeto 2**: Descrição breve do projeto. [Link para o repositório](#)
+
+### Projetos de Machine Learning
+- **Nome do Projeto 1**: Descrição breve do projeto. [Link para o repositório](#)
+- **Nome do Projeto 2**: Descrição breve do projeto. [Link para o repositório](#)
+
+
+
