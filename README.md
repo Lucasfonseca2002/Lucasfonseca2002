@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lucas-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="lucas-Python" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
+  <img align="center" alt="lucas-Power-BI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
   
   
 </div>
