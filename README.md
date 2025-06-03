@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Sou apaixonado pela área de Dados, Analytics e por Machine Learning 
 - 📒 Estudando Python,SQL, Power BI, Ciencia de Dados e Machine Learning.
-- 👨‍🎓 Curso Analise e Desenvolvimento de Sistemas 3/5!
+- 👨‍🎓 Curso Analise e Desenvolvimento de Sistemas 5/5!
 <div style="display: inline_block"><br>
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lucas-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
