@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Lucas Fonseca
 
-- 🧑‍💻 Sou apaixonado pela área de Dados, Analytics e por Machine Learning 
-- 📒 Estudando Python,SQL, Power BI, Ciencia de Dados e Machine Learning.
-- 👨‍🎓 Curso Analise e Desenvolvimento de Sistemas 5/5!
+- 🧑‍💻 Sou apaixonado pela área de Dados, Analytics e por Engenharia de Dados.
+- 📒 Estudando Python,SQL, Power BI e Engenharia de Dados.
+- 👨‍🎓 Formando em Análise e Desenvolvimento de Sistemas 5/5!
 
 ##
 
